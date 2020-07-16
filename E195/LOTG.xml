@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">LOT Grzeski</name>
+            <texture>/../Models/Liveries/ERJ195/LOTG.png</texture>
+        </livery>
+    </model>
+</sim>
+</PropertyList>
