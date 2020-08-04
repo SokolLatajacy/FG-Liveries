@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+<sim>
+    <model>
+        <livery>
+            <name type="string">LOT (SP-LNO) </name>
+            <texture>/../Models/Liveries/ERJ195/LOT-SP-LNO.png</texture>
+        </livery>
+        <tail-number>SP-LND</tail-number>
+    </model>
+</sim>
+</PropertyList>
